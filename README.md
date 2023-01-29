@@ -23,11 +23,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-<p align="center">
+<p align="left">
   Projeto com intuito de recriar um layout do Figma.
 </p>
 
-  <ul align="center" type="none">
+  <ul align="left" type="none">
       <li>Estruturando um projeto HTML</li>
       <li>Uso de tags HTML mais comuns</li>
       <li>Conceitos iniciais de CSS</li>

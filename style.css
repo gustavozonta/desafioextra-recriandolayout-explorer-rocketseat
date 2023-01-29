@@ -1,0 +1,74 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+#travel img {
+  margin: auto;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  font-weight: normal;
+  color: #3F3D56;
+}
+
+h1 span {
+  color: #EE24FF;
+  font-weight: bold;
+}
+
+#travel {
+  color: #828282;
+}
+
+#black {
+  color: #3F3D56;
+  font-weight: bold;
+}
+
+#last {
+  margin-top: 32px;
+}
+
+#line {
+  width: 391px;
+  height: 0;
+  border: 1px solid #ECEFF2;
+  margin: 64px auto 8px;
+}
+
+nav {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: #3F3D56;
+  display: flex;
+  justify-content: center;
+  gap: 42px;
+  padding-top: 16px;
+  margin-bottom: 40.83px;
+  margin-top: 0;
+  align-self: center;
+}
+
+nav a {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 0.94rem;
+  text-decoration: none;
+  color: #3F3D56;
+}
+
+footer {
+  display: flex;
+  position: fixed;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;    
+  text-align: center;
+  line-height: 100px;
+}

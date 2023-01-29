@@ -18,8 +18,13 @@ h1 span {
   font-weight: bold;
 }
 
-#travel, #black {
+#travel{
   color: #828282;
+}
+
+#black {
+  font-weight: bold;
+  color: #3F3D56;
 }
 
 #last {

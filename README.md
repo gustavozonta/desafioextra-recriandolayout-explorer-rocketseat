@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Introdução HTMl e CSS" src="./public/images/travel.png" width="100%">
+  <img alt="Projeto Introdução HTMl e CSS" src="./assets/travel.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
